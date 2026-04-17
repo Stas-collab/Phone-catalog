@@ -5,7 +5,7 @@ filtering, favorites, and shopping cart functionality.
 
 ## 🌐 Live Preview
 
-[Phone Catalog Live Demo](https://Stas-collab.github.io/Phone-catalog/)
+[Phone Catalog Live Demo](https://stas-collab.github.io/Phone-catalog/)
 
 ## 🎨 Design Reference
 
