@@ -1,9 +1,42 @@
-# React TypeScript Starter Pack
+# Phone Catalog
 
-To use this template click `Use this template`
+A modern, responsive phone catalog application with product browsing,
+filtering, favorites, and shopping cart functionality.
 
-### Available Scripts
+## 🌐 Live Preview
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[Phone Catalog Live Demo](https://Stas-collab.github.io/Phone-catalog/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🎨 Design Reference
+
+[Figma Design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=T6hu1aEN4cIJ0ypa-0)
+
+## 🛠 Technologies Used
+
+- React 18
+- TypeScript
+- SCSS Modules
+- React Router DOM
+- Vite
+- Swiper
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/Stas-collab/Phone-catalog.git
+   cd Phone-catalog
+
+2. Install dependencies:
+   npm install
+
+3. Run the project locally:
+   npm start
+
+## ✨ Features
+
+- Browse phones, tablets and accessories
+- Product filtering and sorting
+- Search functionality with pagination
+- Favorites list
+- Shopping cart
+- Responsive design for all screen sizes
